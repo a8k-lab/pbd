@@ -1,5 +1,6 @@
 /**
  * Progress Report 3: DDL DML
+ * Kelas: IF-47-01 PJJ
  * Kelompok 2 - MyReading
  * 
  * Anggota Kelompok:
