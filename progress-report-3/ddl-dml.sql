@@ -111,16 +111,16 @@ VALUES
 INSERT INTO
   akun (id_pengguna, nama, kata_sandi)
 VALUES
-  (1, 'abdul01', 'password1'),
-  (2, 'ana01', 'password2'),
-  (3, 'dimas01', 'password3'),
-  (4, 'malik01', 'password4'),
-  (5, 'zulfia01', 'password5'),
-  (6, 'adriansyah01', 'password6'),
-  (7, 'erlangga01', 'password7'),
-  (8, 'rico01', 'password8'),
-  (9, 'sahrir01', 'password9'),
-  (10, 'nando01', 'password10');
+  (1, 'abdul01', 'abdulgantenk'),
+  (2, 'ana01', 'anazulfiaselaluceria'),
+  (3, 'dimas01', 'dimasgans123'),
+  (4, 'malik01', 'abdulmalikmaungoding'),
+  (5, 'zulfia01', '4n4zulf14'),
+  (6, 'adriansyah01', 'dimaskubernetes'),
+  (7, 'erlangga01', 'loremipsum'),
+  (8, 'rico01', 'ricopjj'),
+  (9, 'sahrir01', 'sahrirtelkom123'),
+  (10, 'nando01', 'nandobarudakwell');
 
 -- Insert 10 data ke table genre
 INSERT INTO
